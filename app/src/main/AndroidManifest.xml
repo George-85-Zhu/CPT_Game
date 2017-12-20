@@ -23,7 +23,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".ListofTasks"></activity>
+        <activity android:name=".ListofTasks" />
+        <activity android:name=".RegisterScreen"></activity>
     </application>
 
 </manifest>
