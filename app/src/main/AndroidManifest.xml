@@ -24,7 +24,8 @@
             </intent-filter>
         </activity>
         <activity android:name=".ListofTasks" />
-        <activity android:name=".RegisterScreen"></activity>
+        <activity android:name=".RegisterScreen" />
+        <activity android:name=".Loading"></activity>
     </application>
 
 </manifest>
